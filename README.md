@@ -4,14 +4,16 @@ A simple application for organizing clinical data into structured files. It help
 
 ## Overview
 
-This project provides a straightforward way to handle clinical data using file-based storage. Instead of keeping records scattered across multiple locations, the application categorizes them into dedicated files for better organization and retrieval.
+This project was developed as a **Advanced Programming course project**. It demonstrates the use of data structures and file handling techniques to organize, store, and retrieve clinical records efficiently.
+
+Instead of keeping records scattered across multiple locations, the application categorizes them into dedicated files for better organization and easier access.
 
 ## Features
 
 * Organizes clinical data into structured files
+* Uses data structures to manage and categorize records
 * Handles file operations such as creating, reading, and updating records
 * Keeps data easy to locate and manage
-* Provides a simple interface for working with clinic records
 
 ## Feedback
 
