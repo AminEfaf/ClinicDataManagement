@@ -1,23 +1,18 @@
 # Clinical Data Management
 
-This sophisticated program seamlessly organizes clinic data by expertly categorizing it into distinct files through advanced file handling techniques.
+A simple application for organizing clinical data into structured files. It helps keep patient and clinic records sorted, easy to access, and easier to manage.
 
----
+## Overview
 
-## Project Overview
-
-The Clinical Data Management program is designed to streamline the organization and handling of clinical data. It utilizes advanced file handling techniques to categorize and store data efficiently, ensuring a structured and easily accessible repository of information for clinics.
-
----
+This project provides a straightforward way to handle clinical data using file-based storage. Instead of keeping records scattered across multiple locations, the application categorizes them into dedicated files for better organization and retrieval.
 
 ## Features
 
-1. **Efficient Data Organization**: Automatically categorizes clinical data into appropriate files.
-2. **Advanced File Handling**: Leverages modern file handling techniques for seamless operations.
-3. **User-Friendly Interface**: Simplifies data management for non-technical users.
-
----
+* Organizes clinical data into structured files
+* Handles file operations such as creating, reading, and updating records
+* Keeps data easy to locate and manage
+* Provides a simple interface for working with clinic records
 
 ## Feedback
 
-We welcome your feedback and suggestions! Feel free to reach out or open an issue in this repository.
+If you have suggestions or find a bug, please open an issue in this repository.
